@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# College seva.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<a href="https://join.slack.com/t/ngc-goz8665/shared_invite/zt-r01kumfq-dQUT3c95BxEP_fnk4yJFfQ">
+<img alt="Join us on Slack" src="https://raw.githubusercontent.com/netlify/netlify-cms/master/website/static/img/slack.png" width="165"/>
+</a>
 
-## Available Scripts
+![Contributors](https://img.shields.io/github/contributors/larymak/Python-project-Scripts?style=plastic)
+![Forks](https://img.shields.io/github/forks/larymak/Python-project-Scripts)
+![Stars](https://img.shields.io/github/stars/larymak/Python-project-Scripts)
+![Licence](https://img.shields.io/github/license/larymak/Python-project-Scripts)
+![Issues](https://img.shields.io/github/issues/larymak/Python-project-Scripts)
 
-In the project directory, you can run:
+## This project serves as a comprehensive resource, offering information on all the potential engineering colleges and course intakes. It utilizes data from the past five years' Common Entrance Test (CET) cutoffs, enabling users to track and analyze admission trends. By accessing this data, individuals can make informed decisions about college choices and course selection in the field of engineering..
 
-### `npm start`
+### Description
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This project serves as an all-encompassing platform, offering a wealth of information on engineering colleges and course intakes. By leveraging data from the past five years' Common Entrance Test (CET) cutoffs, it empowers users to proactively track and analyze admission trends. As a result, individuals can make well-informed decisions regarding their college choices and course selection in the field of engineering in Maharashtra. This project effectively eliminates the need for unnecessary counseling sessions and prevents unnecessary expenses. Furthermore, it provides individuals with a comprehensive overview of the available admission possibilities across various colleges and courses, allowing them to have a clear and informed perspective when making crucial academic decisions.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Contribution Guidelines
 
-### `npm test`
+The contribution guidelines are as per the
+guide [HERE](https://github.com/larymak/Python-project-Scripts/blob/main/CONTRIBUTING.md).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Instructions
 
-### `npm run build`
+- Fork this repository
+- Clone your forked repository
+- Add your scripts
+- Commit and push
+- Create a pull request
+- Star this repository
+- Wait for pull request to merge
+- Celebrate your first step into the open source world and contribute more
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Additional tools to help you get Started with Open-Source Contribution
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [How to Contribute to Open Source Projects – A Beginner's Guide](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
+- [How to Write a Good README File for Your GitHub Project](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+#### Note: When you add a project, add it to the README for ease of finding it.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+#### Note: Please do not have the project link reference your local forked repository. Always link it to this repository after it has been merged with main.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Project workflow
+![image](https://github.com/Pjha72/College_Seva/assets/130688862/c6230d25-a46e-44c9-a39d-0bdb1dc85551)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
